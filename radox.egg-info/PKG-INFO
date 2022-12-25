@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: radox
+Version: 0.0.1
+Summary: A WSGI based Python web framework
+Home-page: https://github.com/codeverything/radox
+Author: Palani
+Author-email: palanioffcl@gmail.com
+Keywords: web,python,framework,libraries,webapps
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Web
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Software Development :: Libraries :: Web Framework
